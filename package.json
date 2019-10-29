@@ -1,0 +1,21 @@
+{
+  "name": "allex_awsmailerservice",
+  "version": "1.0.0",
+  "description": "AWSMailerService",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url" : "git@github.com:allex-services/awsmailer.git"
+  },
+  "keywords": [
+    "ecosystem:allex",
+    "Service",
+    "AWSMailer"
+  ],
+  "author": "HERS Belgrade",
+  "license": "ISC"
+}
+
